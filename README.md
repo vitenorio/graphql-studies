@@ -2,6 +2,7 @@
 📎 studies about:
 - graphql
 - schemas
-- resolves  
+- resolvers  
 - typeDefs
+- web socket
 
